@@ -12,7 +12,7 @@ Scans infrastructure and application configuration files (YAML, JSON, Terraform,
 - Built with Python, Pydantic, LangChain, and open-source security rulesets  
 - Future: Self-hosted agent + real-time GitHub/GitLab integration  
 
-**Repository:** [LinkedIn]([https://www.linkedin.com/in/rodney-stanley-sqa](https://github.com/rodneystanley2025/SecureConfigAI)) *(coming soon – watch/star for updates)*
+**Repository:** [GitHub]((https://github.com/rodneystanley2025/SecureConfigAI)) *(coming soon – watch/star for updates)*
 
 ## 🛠 Cybersecurity & AI Security Labs / Projects
 - **API Security Testing Lab** – Hands-on reconnaissance and penetration testing using Burp Suite, Postman, Nmap (APISec University)
