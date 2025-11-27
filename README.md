@@ -5,14 +5,14 @@
 20+ years delivering high-quality, secure software. Now fusing deep testing expertise with hands-on cybersecurity and AI security engineering. Passionate about finding vulnerabilities before attackers do — especially in configuration and AI systems.
 
 ## 🔭 Current Project: AI-Powered Configuration Scanner (In Development)
-Scans infrastructure and application configuration files (YAML, JSON, Terraform, Kubernetes, Docker, etc.) for OWASP Top 10–style misconfigurations using a combination of rule-based tools and AI-driven anomaly detection.
+Scans infrastructure and application configuration files (YAML, JSON, ini, toml, etc.) for OWASP Top 10–style misconfigurations using a combination of rule-based tools and AI-driven anomaly detection.
 
 - Combines traditional config auditing with large language model analysis  
 - Identifies insecure defaults, excessive permissions, exposed secrets, weak encryption, and dangerous functions  
 - Built with Python, Pydantic, LangChain, and open-source security rulesets  
 - Future: Self-hosted agent + real-time GitHub/GitLab integration  
 
-**Repository:** (https://github.com/rodneystanley2025/SecureConfigAI) *(coming soon – watch/star for updates)*
+**Repository:** (https://github.com/rodneystanley2025/SecureConfigAI)
 
 ## 🛠 Cybersecurity & AI Security Labs / Projects
 - **API Security Testing Lab** – Hands-on reconnaissance and penetration testing using Burp Suite, Postman, Nmap (APISec University)
