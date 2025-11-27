@@ -27,10 +27,10 @@ Scans infrastructure and application configuration files (YAML, JSON, ini, toml,
 - ISTQB Certified Tester Foundation Level (CTFL) – Since 2007  
 - Certified AI Security Expert (Msec-CAIS) – In Progress
 
-## 💻 Tech Stack I Work With Daily
-**Testing & Automation:** Selenium, C#, Postman, Azure DevOps, JIRA, TestRail  
-**Cloud & Infra:** Azure, AWS, Docker, Kubernetes, Terraform  
-**Security Tools:** Burp Suite, Nmap, Checkov, Trivy  
+## 💻 Tech Stack I Work With most often
+**Testing & Automation:** Selenium, C#, Postman, Azure DevOps, JIRA
+**Cloud & Infra:** Azure, AWS, Docker, Kubernetes
+**Security Tools:** Burp Suite, Nmap, wireshark 
 **AI & Python:** LangChain, Pydantic, OpenAI/Groq APIs, Pandas, CodeSignal Learn (400+ day streak)
 
 ## 📫 Let’s Connect
