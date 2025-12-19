@@ -4,7 +4,7 @@
 
 20+ years delivering high-quality, secure software. Now fusing deep testing expertise with hands-on cybersecurity and AI security engineering. Passionate about finding vulnerabilities before attackers do — especially in configuration and AI systems.
 
-## 🔭 Current Project: AI-Powered Configuration Scanner (In Development)
+## 🔭 Current Project: AI-Powered Configuration Scanner
 Scans infrastructure and application configuration files (YAML, JSON, ini, toml, etc.) for OWASP Top 10–style misconfigurations using a combination of rule-based tools and AI-driven anomaly detection.
 
 - Combines traditional config auditing with large language model analysis  
