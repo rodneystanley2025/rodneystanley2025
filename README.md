@@ -15,6 +15,7 @@ My focus is on systematically identifying failure modes in AI systems, documenti
 I document both what works and what fails, because realistic security depends on understanding both.
 
 Recent work focuses on detecting and mitigating crescendo-style multi-turn attacks, including cross-turn risk accumulation, decay, and post-mitigation adversarial replay.
+
 ---
 
 ## 🔴 AI Red Teaming & LLM Security Research
