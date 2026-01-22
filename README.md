@@ -1,5 +1,5 @@
 # Hi, I'm Rodney Stanley  
-**Quality Assurance Engineer → Cybersecurity & AI Red Teaming**  
+**Quality Assurance Engineer → Cybersecurity & AI Red Teaming (LLM Security)**  
 📍 Eden Prairie, MN  
 📧 rodney_stanley@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rodney-stanley-sqa)
@@ -12,6 +12,9 @@ I bring 20+ years of experience delivering high-quality, secure software and now
 
 My focus is on systematically identifying failure modes in AI systems, documenting risk, implementing mitigations, and validating defenses through structured adversarial testing. I am especially interested in how traditional QA and abuse-case thinking translate into effective AI security practices.
 
+I document both what works and what fails, because realistic security depends on understanding both.
+
+Recent work focuses on detecting and mitigating crescendo-style multi-turn attacks, including cross-turn risk accumulation, decay, and post-mitigation adversarial replay.
 ---
 
 ## 🔴 AI Red Teaming & LLM Security Research
@@ -20,10 +23,13 @@ I design and execute **structured AI red-team exercises** against LLM-powered sy
 
 My work focuses on:
 - Prompt-based adversarial testing (memory evasion, authority abuse, policy contradiction)
-- Multi-turn adaptive attack scenarios
+- Multi-turn adaptive attack scenarios, including crescendo-style escalation and cross-turn
+  pressure testing
 - Canonical denial design and statelessness enforcement
 - Training data claim suppression
 - Evidence-based mitigation and residual risk analysis
+- Stateless semantic risk scoring and escalation thresholds
+- Cross-turn risk accumulation with deterministic decay (no conversational memory)
 
 ### ⭐ Featured Project: AI Red Team Lab
 
@@ -43,6 +49,7 @@ A full end-to-end red-team exercise against a locally hosted LLM API, following 
 - Residual risk register
 - Security posture and controls matrix
 - Known limitations and non-goals
+- Adversarial evasion analysis and “where I would attack next” assessment
 
 🔗 **Repository:** https://github.com/rodneystanley2025/ai-red-team-lab
 
@@ -64,7 +71,7 @@ Scans infrastructure and application configuration files (YAML, JSON, INI, TOML,
 
 ## 🧪 Security Labs & Hands-On Experience
 
-- **AI Red Teaming Labs** – Prompt injection, memory evasion, authority abuse, policy contradiction testing  
+- **AI Red Teaming Labs** – AI Red Teaming Labs – Prompt injection, memory evasion, authority abuse, crescendo escalation, and policy contradiction testing  
 - **API Security Testing Lab** – Reconnaissance and testing with Burp Suite, Postman, Nmap (APISec University)  
 - **Vulnerability & Abuse-Case Testing** – Volunteer Security QA at Chance AI (Dec 2024 – Mar 2025)  
 - **Python & Security Automation** – 400+ consecutive days on CodeSignal Learn (top percentile rankings)
@@ -84,7 +91,7 @@ Scans infrastructure and application configuration files (YAML, JSON, INI, TOML,
 ## 💻 Technical Focus Areas
 
 **AI & Security:**  
-LLM Security, AI Red Teaming, Prompt Injection, Abuse-Case Testing, Defense-in-Depth
+LLM Security, AI Red Teaming, Prompt Injection, Crescendo Attacks, Abuse-Case Testing, Defense-in-Depth
 
 **Security Tools:**  
 Burp Suite, Nmap, Wireshark, Postman
