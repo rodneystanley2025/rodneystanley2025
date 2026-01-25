@@ -36,9 +36,9 @@ My work focuses on:
 - Stateless semantic risk scoring and escalation thresholds
 - Cross-turn risk accumulation with deterministic decay (no conversational memory)
 
-### ⭐ Featured Project: AI Red Team Lab
+### ⭐ Featured Project: Staged AI Red Team Lab (Multi‑Turn LLM Failure Analysis)
 
-A full end-to-end red-team exercise against a locally hosted LLM API, following a staged methodology similar to internal security assessments.
+A full end-to-end red-team exercise designed to expose multi‑turn and orchestration failures in a locally hosted LLM API…, following a staged methodology similar to internal security assessments.
 
 **What this project demonstrates:**
 - Threat modeling for LLM-backed services
