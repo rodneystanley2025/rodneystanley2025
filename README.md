@@ -19,8 +19,12 @@ Recent work focuses on detecting and mitigating crescendo-style multi-turn attac
 ---
 
 ## 🔴 AI Red Teaming & LLM Security Research
+I focus on **why AI systems fail over time**, not just how they fail on a single prompt.
+My work shows how multi-turn interaction, context accumulation, and misplaced trust
+lead to real-world security breakdowns that single-turn testing routinely misses.
 
-I design and execute **structured AI red-team exercises** against LLM-powered systems, emphasizing realism, documentation, and defense-in-depth rather than one-off prompt tricks.
+I design and execute structured AI red-team exercises against LLM-powered systems,
+emphasizing realism, documentation, and defense-in-depth rather than one-off prompt tricks.
 
 My work focuses on:
 - Prompt-based adversarial testing (memory evasion, authority abuse, policy contradiction)
